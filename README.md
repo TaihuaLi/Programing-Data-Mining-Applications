@@ -1,6 +1,7 @@
 # Programing Data Mining Applications
 
 Class code: CSC 478
+
 School: DePaul University
 
 Note: codes are written in [Python 2.7](https://www.python.org)
